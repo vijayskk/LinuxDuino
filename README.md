@@ -1,4 +1,5 @@
-# Minimalistic Linux Terminal Simulator on Arduino
+# LinuxDuino
+## Minimalistic Linux Terminal Simulator on Arduino
 
 ## Project Overview
 
